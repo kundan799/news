@@ -1,0 +1,15 @@
+#navbar{
+    width: 98%;
+    height: 100px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    font-size: 30px;
+}
+#search_input{
+    width: 600px;
+    margin: 30px;
+    border-radius: 10px;
+}

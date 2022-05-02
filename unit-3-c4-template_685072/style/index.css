@@ -1,0 +1,29 @@
+#main{
+    width:98%;
+    height:700px;
+    margin:auto;
+    display: flex;
+    /* border: 1px solid red; */
+}
+#sidebar{
+    width: 30%;
+    height: 700px;
+    /* border: 1px solid green; */
+}
+#results{
+    width:70%;
+    height: 700px;
+    /* border: 1px solid green; */
+}
+h3{
+    text-align: center;
+    background-color: teal;
+   
+}
+h1{
+    text-align: center;
+}
+img{
+    width:200px;
+    height:200px
+}
